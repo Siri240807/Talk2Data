@@ -10,7 +10,7 @@ Talk2Data lets you interact with your datasets using AI — just type your quest
 - 🧠 Backend: FastAPI  
 - 🤖 ML/AI: LangChain + OpenAI  
 - 🧩 Vector DB: Chroma  
-- 🌐 Frontend: HTML / JS (React coming soon!)
+- 🌐 Frontend: HTML / JS (React-not done yet)
 
 ---
 
@@ -25,4 +25,5 @@ UI Preview of the Talk2Data interface 👇
 Srija Chinthakunta ❤️
 
 ---
+
 
